@@ -1,0 +1,17 @@
+{
+    "name"              : "meteria",
+    "description"       : "metering library",
+    "version"           : "0.0.1",
+    "author"            : "Nicolas Herment",
+    "private"           : false,
+    "contributors": [],
+
+    "dependencies": {
+    },
+
+    "repository"        : "none",
+    "main"              : "index.js",
+    "scripts": {
+    }
+}
+
